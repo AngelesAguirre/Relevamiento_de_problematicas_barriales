@@ -1,6 +1,4 @@
-# Observatorio Barrial
-
-## Sistema de Registro de Problemáticas Urbanas
+# Sistema de Registro de Problemáticas Urbanas
 
 ### Descripción
 
